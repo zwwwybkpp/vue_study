@@ -1,0 +1,9 @@
+{
+    "git.ignoreLimitWarning": true,
+    "vue3snippets.enable-compile-vue-file-on-did-save-code": false,
+    "files.associations": {
+        "iostream": "cpp",
+        "*.tcc": "cpp"
+    },
+    "search.useGlobalIgnoreFiles": false
+}

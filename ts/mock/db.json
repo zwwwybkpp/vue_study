@@ -1,0 +1,18 @@
+{
+    "articals":[
+        {
+            "id":1,
+            "title":"wann",
+            "author":"wang",
+            "status":true,
+            "created_at":"2023-1-1"
+        },
+        {
+            "id":2,
+            "title":"yy",
+            "author":"zy",
+            "status":true,
+            "created_at":"2023-1-1"
+        }
+    ]
+}
